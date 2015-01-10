@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\Tiles\se_free_dirt_texture.xnb</Output>
+      <Output>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\Tiles\se_free_dirt_texture.xnb</Output>
       <Time>2014-11-27T10:13:38+00:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\Tiles\se_free_grass_texture.xnb</Output>
+      <Output>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\Tiles\se_free_grass_texture.xnb</Output>
       <Time>2014-11-27T10:13:38+00:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\Tiles\se_free_ground_texture.xnb</Output>
+      <Output>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\Tiles\se_free_ground_texture.xnb</Output>
       <Time>2014-11-27T10:13:38+00:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\Tiles\se_free_mud_texture.xnb</Output>
+      <Output>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\Tiles\se_free_mud_texture.xnb</Output>
       <Time>2014-11-27T10:13:38+00:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\Tiles\se_free_road_texture.xnb</Output>
+      <Output>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\Tiles\se_free_road_texture.xnb</Output>
       <Time>2014-11-27T10:13:38+00:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\Tiles\se_free_rock_texture.xnb</Output>
+      <Output>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\Tiles\se_free_rock_texture.xnb</Output>
       <Time>2014-11-27T10:13:38+00:00</Time>
     </Item>
     <Item>
@@ -61,7 +61,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\Tiles\se_free_wood_texture.xnb</Output>
+      <Output>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\Tiles\se_free_wood_texture.xnb</Output>
       <Time>2014-11-27T10:13:38+00:00</Time>
     </Item>
     <Item>
@@ -70,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\chaser.xnb</Output>
+      <Output>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\chaser.xnb</Output>
       <Time>2014-11-27T10:13:38+00:00</Time>
     </Item>
     <Item>
@@ -79,17 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\warrior.xnb</Output>
+      <Output>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\warrior.xnb</Output>
       <Time>2014-12-10T17:09:16+00:00</Time>
-    </Item>
-    <Item>
-      <Source>debug.spritefont</Source>
-      <Name>debug</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>G:\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\debug.xnb</Output>
-      <Time>2014-11-27T10:13:38+00:00</Time>
     </Item>
     <Item>
       <Source>clearTile.png</Source>
@@ -97,7 +88,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\clearTile.xnb</Output>
+      <Output>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\clearTile.xnb</Output>
       <Time>2014-12-11T00:29:16+00:00</Time>
     </Item>
     <Item>
@@ -106,7 +97,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\chest.xnb</Output>
+      <Output>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\chest.xnb</Output>
       <Time>2014-12-11T00:36:26+00:00</Time>
     </Item>
     <Item>
@@ -115,7 +106,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\coin.xnb</Output>
+      <Output>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\coin.xnb</Output>
       <Time>2014-12-11T00:45:12+00:00</Time>
     </Item>
     <Item>
@@ -124,8 +115,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\Tiles\wall.xnb</Output>
+      <Output>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\Tiles\wall.xnb</Output>
       <Time>2014-12-11T01:24:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>debug.spritefont</Source>
+      <Name>debug</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\debug.xnb</Output>
+      <Time>2014-11-27T10:13:38+00:00</Time>
     </Item>
     <Item>
       <Source>SoundEffects\cloth_money_pouch_with_coins_in_drop_on_carpeted_floor_version_1.mp3</Source>
@@ -133,8 +133,8 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>G:\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\SoundEffects\cloth_money_pouch_with_coins_in_drop_on_carpeted_floor_version_1.xnb</Output>
-      <Extra>G:\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\SoundEffects\cloth_money_pouch_with_coins_in_drop_on_carpeted_floor_version_1.wma</Extra>
+      <Output>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\SoundEffects\cloth_money_pouch_with_coins_in_drop_on_carpeted_floor_version_1.xnb</Output>
+      <Extra>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\SoundEffects\cloth_money_pouch_with_coins_in_drop_on_carpeted_floor_version_1.wma</Extra>
       <Time>2014-12-11T01:35:36+00:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -144,10 +144,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>G:\TileMapEx\TileMapEx\TileMapExContent\</RootDirectory>
-      <LoggerRootDirectory>G:\TileMapEx\TileMapEx\TileMapEx\</LoggerRootDirectory>
-      <IntermediateDirectory>G:\TileMapEx\TileMapEx\TileMapEx\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>G:\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapExContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapEx\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

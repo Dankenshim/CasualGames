@@ -5,3 +5,4 @@ C:\Users\ppowell\Documents\2015\2014 2D Games lectures\2014 Week 10\TileMapSimpl
 C:\Users\s00132397.LAB-D2007-12\Desktop\TileMapEx\TileMapEx\TileMapExContent\obj\x86\Debug\TileMapExContent.contentprojResolveAssemblyReference.cache
 C:\Users\s00132798\Desktop\TileMapEx\TileMapEx\TileMapExContent\obj\x86\Debug\TileMapExContent.contentprojResolveAssemblyReference.cache
 G:\TileMapEx\TileMapEx\TileMapExContent\obj\x86\Debug\TileMapExContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\GitHub\CasualGames\TileMapEx\TileMapEx\TileMapExContent\obj\x86\Debug\TileMapExContent.contentprojResolveAssemblyReference.cache

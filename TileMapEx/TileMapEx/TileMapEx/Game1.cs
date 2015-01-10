@@ -107,6 +107,8 @@ namespace TileMapEx
         Vector2 cameraPosition = new Vector2(0, 0);
         float cameraSpeed = 5;
         private Rectangle _characterRect;
+        int gold = 0;
+        int score = 0;
 
         KeyboardState oldState;
         int impassible = 1;
@@ -178,7 +180,7 @@ namespace TileMapEx
             debug = Content.Load<SpriteFont>("debug");
             string[] backTileNames = { "dirt", "grass", "ground","rock" };
             string[] impassibleTiles = { "rock", "ground" };
-            string[] hiddenTileNames = { "NONE", "chest", "key","rock" };
+            //string[] hiddenTileNames = { "NONE", "chest", "key","rock" };
 
             //_tManager.addLayer("hidden", hiddenTileNames, hiddenMap);
             //int mapWidth = _tManager.Layers[0].MapWidth;
@@ -284,7 +286,11 @@ namespace TileMapEx
             Rectangle r = new Rectangle(_tManager.CurrentTile.X * tileWidth,
                                         _tManager.CurrentTile.Y * tileHeight, tileWidth, tileHeight);
             bool inView = GraphicsDevice.Viewport.Bounds.Contains(r);
+           
             bool passable = _tManager.ActiveLayer.Tiles[_tManager.CurrentTile.Y, _tManager.CurrentTile.X].Passable;
+            
+            bool interactable = _tManager.ActiveLayer.Tiles[_tManager.CurrentTile.Y, _tManager.CurrentTile.X].Interactable;
+            
             Vector2 PossibleCameraMove = new Vector2(_characterRect.X - GraphicsDevice.Viewport.Bounds.Width / 2,
                                                 _characterRect.Y - GraphicsDevice.Viewport.Bounds.Height / 2);
             if (passable)
@@ -296,6 +302,19 @@ namespace TileMapEx
             {
                 _tManager.CurrentTile = previousTile;
 
+            }
+
+
+            if (interactable)
+            {
+                if (keyState.IsKeyDown(Keys.R) && !oldState.IsKeyDown(Keys.R))
+                {
+
+                    gold = gold + 20;
+                }
+            }
+            else
+            {
             }
             cam.Pos += TileDifference(previousTile, _tManager.CurrentTile);
             oldState = keyState;
@@ -373,8 +392,8 @@ namespace TileMapEx
             spriteBatch.Begin();
             spriteBatch.DrawString(debug, cam.Pos.ToString(), new Vector2(10, 10), Color.White);
             spriteBatch.DrawString(debug, new Vector2(_tManager.CurrentTile.X, _tManager.CurrentTile.Y).ToString(), new Vector2(10, 30), Color.White);
-            spriteBatch.DrawString(debug, "Score:0 ", new Vector2(10, 50), Color.White);
-            spriteBatch.DrawString(debug, "Gold:0 ", new Vector2(10, 70), Color.Gold);
+            spriteBatch.DrawString(debug, "Score: "+ score, new Vector2(10, 50), Color.White);
+            spriteBatch.DrawString(debug, "Gold: "+ gold, new Vector2(10, 70), Color.Gold);
             spriteBatch.DrawString(debug, "Player List ", new Vector2(910, 10), Color.White);
             spriteBatch.End();
 
